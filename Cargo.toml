@@ -1,6 +1,7 @@
 [package]
+authors = ["Jonathan 'theJPster' Pallant <github@thejpster.org.uk>"]
 name = "tockloader-proto"
 version = "0.1.0"
-authors = ["Jonathan 'theJPster' Pallant <github@thejpster.org.uk>"]
 
 [dependencies]
+byteorder = "1.1.0"
